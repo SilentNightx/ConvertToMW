@@ -23,4 +23,4 @@ Run the executable to perform initial setup.
 Run again to convert your load order. It will overwrite your Morrowind load order.
 
 # Additional Credits
-johnnyhostile for the original rough python script.
+johnnyhostile for the original rough python script for Linux.
